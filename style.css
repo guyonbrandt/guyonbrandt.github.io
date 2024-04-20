@@ -298,3 +298,11 @@ body
 {
     width: 40px;
 }
+
+.site-paper-background > .paper-content > video,
+.site-paper-background > .paper-content > iframe
+{
+    width: 85%;
+    max-width: 650px;
+    aspect-ratio: 16 / 9;
+}
