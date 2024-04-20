@@ -124,6 +124,16 @@ body
     /* display: inline-block; */
 }
 
+.paper-content > .centered > p
+{
+    font-size: 19px;
+    font-weight: inherit;
+    margin-top: 0px;
+    line-height: 115%;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
 .paper-content h4
 {
     color: black;
