@@ -90,6 +90,25 @@ body
     }
 }
 
+.top-section
+{
+    min-height: 160px;
+    font-size: 19px;
+    font-weight: inherit;
+    margin-top: 0px;
+    line-height: 115%;
+    margin-bottom: 0px;
+    text-align: left;
+    /* display: inline-block; */
+}
+.top-section > p
+{
+    margin: auto;
+    align-self: center;
+    vertical-align: middle;
+    /* display: inline-block; */
+}
+
 .menu > a
 {
     color: black;
