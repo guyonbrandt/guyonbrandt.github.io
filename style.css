@@ -211,7 +211,7 @@ body
  /*================================================ CHICANO UNIVERSE ================================================*/
 .chicano-universe
 {
-    background-image: url("books/Chicano Universe Advanced Intelligence/Sanchez_David_Cover.jpg");
+    background-image: url("books/Chicano Universe Advanced Intelligence/Sanchez_David_Cover.webp");
     background-size: cover;
     aspect-ratio: 1 / 1;
     width: 100%;
@@ -225,7 +225,7 @@ body
  /*================================================ FAITH ================================================*/
 .faith
 {
-    background-image: url("books/The Faith/Leavy_Dwain Renardo_cover.jpg");
+    background-image: url("books/The Faith/Leavy_Dwain Renardo_cover.webp");
     background-size: cover;
     aspect-ratio: 1 / 1;
     width: 100%;
