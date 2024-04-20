@@ -255,3 +255,18 @@ body
     margin: auto;
     font-size: 24px;
 }
+
+.paper-footer
+{
+    display: flex;
+    flex-direction: grid;
+    justify-content: center;
+    margin: auto;
+    gap: 30px;
+    margin-top: 50px;
+}
+
+.paper-footer > a > img
+{
+    width: 40px;
+}
