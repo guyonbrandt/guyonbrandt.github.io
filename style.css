@@ -25,6 +25,7 @@ body
     filter: drop-shadow(black 0px 3px 3px);
     padding-top: 40px;
     padding-bottom: 50px;
+    position: relative;
 }
 
 .site-paper-background hr
